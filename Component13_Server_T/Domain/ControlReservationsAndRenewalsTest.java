@@ -1,6 +1,5 @@
 package Domain;
-//Commented out imports to prevent errors during generation
-//import java.util.*;
+
 public class ControlReservationsAndRenewalsTest {
 
 	/**
@@ -79,5 +78,6 @@ public class ControlReservationsAndRenewalsTest {
 		// TODO - implement ControlReservationsAndRenewals.processRenewal
 		throw new UnsupportedOperationException();
 	}
+
 
 }
