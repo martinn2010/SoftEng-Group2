@@ -1,7 +1,5 @@
 package Domain;
-/**
- * 
- */
+
 public class ControlReservationsAndRenewals {
 
 	/**
@@ -80,5 +78,6 @@ public class ControlReservationsAndRenewals {
 		// TODO - implement ControlReservationsAndRenewals.processRenewal
 		throw new UnsupportedOperationException();
 	}
+
 
 }
