@@ -1,5 +1,7 @@
 package Domain;
-
+/**
+ * 
+ */
 public class ControlReservationsAndRenewals {
 
 	/**
